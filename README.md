@@ -2,7 +2,7 @@
 
 > 2021년에 했던 Next.js 토이프로젝트
 
-<img src="./example.png" alt="project example image" title="example">
+<img src="./example.gif" alt="project example image" title="example">
 
 ### Project example image
 
